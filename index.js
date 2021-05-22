@@ -9,7 +9,7 @@ const id_oldmodz95 = "346049979863007232";
 const salon_predefini = "You cannot use this command here. A private lounge is available to use the controls.";
 
 client.on('ready', function() {
-	console.log("100% ready to use.\nDevelopper par OldModz95#7213\n\ndiscord.gg/3t2568W\noldmodz95.me\nBOT DISORD OFFICIEL: https://botdiscord.oldmodz95.me")
+	console.log("100% ready to use.\nDevelopper par OldModz95#7213\n\ndiscord.gg/3t2568W\nNPM OFFICIEL: https://github.com/ProtonD/version-en-bot-discord-auth.gg\n\nInstall:\nLine 5: add KEY APP ADMIN")
 	setInterval(async () => {
 		try {
 			//--------STATUS INFOS--------//
